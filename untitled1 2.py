@@ -18,6 +18,6 @@ async def on_ready():
     await bot.change_presence(activity=nextcord.CustomActivity(name="Hi harvici"),status='online')
 
 if __name__ == '__main__':
-    bot.run("MTIzOTk4MzAzOTg1ODIxMjkxNQ.G5mUrX.vByAXOM5A1AAN27NlXNltQPDqLKWBuO6WgjXCQ")
+    bot.run("")
 
 """new code"""
